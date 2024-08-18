@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 I’m currently working on a shell in C++
+## 🌱 I’m currently learning some C++ (assembly is much easier)
+## 👯 I’m looking to collaborate on a program with FaceDev (fav youtuber)
+## 🤔 I’m looking for help with removing brainrot content
+## 💬 Ask me about why the hell do you dont like skibidi toilet even if you are a gen alpha kid
+## 📫 How to reach me: E-MAIL: wetnaybor@gmail.com OR JABBER: wetnaybor@jabberix.com
+## 😄 Pronouns: idk/idc
+## ⚡ Fun fact: i started programming with VSCode (forgot know who told me about it) and just tought i was a pro and started doing some nonsense until i got to settings.json and it was chaos there
