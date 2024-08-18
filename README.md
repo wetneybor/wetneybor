@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on a shell in C++
+## 🔭 I’m currently working on a shell in Python called dracula
 ## 🌱 I’m currently learning some C++ (assembly is much easier)
 ## 👯 I’m looking to collaborate on a program with FaceDev (fav youtuber)
 ## 🤔 I’m looking for help with removing brainrot content
