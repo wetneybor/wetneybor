@@ -1,24 +1,4 @@
-## Hi there 👋
+## Hi there! I am WetNaybor And i Am The Smartest Gen Alpha (bcuz i do coding)
 
-<!--
-**wetneybor/wetneybor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Also [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+like+facedev;Also+touch+some+grass)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🔭 I’m currently working on a shell in Python called dracula
-## 🌱 I’m currently learning some C++ (assembly is much easier)
-## 👯 I’m looking to collaborate on a program with FaceDev (fav youtuber)
-## 🤔 I’m looking for help with removing brainrot content
-## 💬 Ask me about why the hell do you dont like skibidi toilet even if you are a gen alpha kid
-## 📫 How to reach me: E-MAIL: wetnaybor@gmail.com OR JABBER: wetnaybor@jabberix.com
-## 😄 Pronouns: idk/idc
-## ⚡ Fun fact: i started programming with VSCode (forgot know who told me about it) and just tought i was a pro and started doing some nonsense until i got to settings.json and it was chaos there
